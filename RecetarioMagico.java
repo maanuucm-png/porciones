@@ -1,6 +1,5 @@
 public class RecetarioMagico {
-    public static void main(String[] args, String string) {
-        System.out.println(string);
+    public static void main(String[] args) {
         System.out.println("Encendiendo el fuego del caldero en ....");
         
         mostrarHoraActual();
