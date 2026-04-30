@@ -6,6 +6,7 @@ public class PocionCuracion {
         System.out.println("Ingrediente 2: 1 lágrima de fénix.");
         System.out.println("Instrucciones: Remover en el sentido de las agujas del reloj.");
         System.out.println("Resultado: ¡Poción lista! +123 HP.");
+        System.out.println("Nuevo metodo");
 
     }
 }
