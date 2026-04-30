@@ -1,0 +1,1 @@
+Ingredientes: 2 hojas de menta, 1 lágrima de fénix. Mezclar bien.
