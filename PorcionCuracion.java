@@ -1,4 +1,4 @@
-public class PocionCuracion {
+public class PorcionCuracion {
     
     public void preparar() {
         System.out.println("--- Preparando Poción de Curación ---");
