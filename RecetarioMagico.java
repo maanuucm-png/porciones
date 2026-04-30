@@ -4,5 +4,6 @@ public class RecetarioMagico {
         System.out.println("Encendiendo el fuego del caldero en ....");
         
         // Aquí iremos añadiendo las llamadas a nuestras pociones en el futuro
+        //añadimos nuevo metodo
     }
 }
